@@ -1,4 +1,4 @@
-package tdd;
+package iut.tdd;
 
 import org.junit.Assert;
 import org.junit.Test;
